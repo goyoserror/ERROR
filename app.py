@@ -196,7 +196,7 @@ def panel():
         </style>
     </head>
     <body>
-        <h1>Bienvenido al Panel ERROR</h1>
+        <h1>Bienvenido al ERROR</h1>
         <p>Has ingresado correctamente.</p>
         <a href="/salir">Cerrar sesión</a>
     </body>
